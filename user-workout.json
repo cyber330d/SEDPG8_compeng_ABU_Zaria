@@ -1,0 +1,20 @@
+
+
+{
+    "userId": "string",
+    "workoutId": "string",
+    "date": "timestamp",
+    "duration": "number",
+    "caloriesBurned": "number",
+    "exercises": [
+      {
+        "exerciseId": "string",
+        "sets": "number",
+        "reps": "number",
+        "weight": "number",
+        "notes": "string"
+      }
+    ],
+    "completed": "boolean"
+  }
+  

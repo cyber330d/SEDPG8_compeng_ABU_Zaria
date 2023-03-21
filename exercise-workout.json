@@ -1,0 +1,67 @@
+{
+    "workouts": [
+      {
+        "id": "workout-1",
+        "title": "Upper Body Workout",
+        "description": "A workout that focuses on strengthening the upper body.",
+        "exercises": [
+          {
+            "id": "exercise-1",
+            "name": "Bench Press",
+            "sets": 3,
+            "reps": 10,
+            "rest": 60,
+            "notes": "Remember to keep your elbows in and push through your chest."
+          },
+          {
+            "id": "exercise-2",
+            "name": "Lat Pulldowns",
+            "sets": 3,
+            "reps": 12,
+            "rest": 45,
+            "notes": "Use a wide grip to target your lats."
+          },
+          {
+            "id": "exercise-3",
+            "name": "Shoulder Press",
+            "sets": 3,
+            "reps": 8,
+            "rest": 60,
+            "notes": "Don't lock out your elbows at the top of the lift."
+          }
+        ]
+      },
+      {
+        "id": "workout-2",
+        "title": "Leg Day",
+        "description": "A workout that focuses on strengthening the legs.",
+        "exercises": [
+          {
+            "id": "exercise-4",
+            "name": "Squats",
+            "sets": 4,
+            "reps": 8,
+            "rest": 90,
+            "notes": "Make sure to keep your knees over your toes and your back straight."
+          },
+          {
+            "id": "exercise-5",
+            "name": "Deadlifts",
+            "sets": 3,
+            "reps": 10,
+            "rest": 60,
+            "notes": "Don't round your back when lifting the weight."
+          },
+          {
+            "id": "exercise-6",
+            "name": "Calf Raises",
+            "sets": 3,
+            "reps": 12,
+            "rest": 45,
+            "notes": "Use a slow and controlled movement for the best results."
+          }
+        ]
+      }
+    ]
+  }
+  

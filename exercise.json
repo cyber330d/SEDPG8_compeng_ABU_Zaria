@@ -1,0 +1,20 @@
+{
+    "exerciseId": "string",
+    "name": "string",
+    "description": "string",
+    "muscleGroups": [
+      "string"
+    ],
+    "equipment": [
+      "string"
+    ],
+    "imageURL": "string",
+    "videoURL": "string",
+    "steps": [
+      {
+        "stepNumber": "number",
+        "description": "string"
+      }
+    ]
+  }
+  

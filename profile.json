@@ -1,0 +1,35 @@
+{
+    "userId": "string",
+    "name": "string",
+    "email": "string",
+    "password": "string",
+    "age": "number",
+    "gender": "string",
+    "weight": "number",
+    "height": "number",
+    "fitnessGoals": "string",
+    "fitnessLevel": "string",
+    "bodyMeasurements": {
+      "waist": "number",
+      "hip": "number",
+      "bodyFatPercentage": "number"
+    },
+    "medicalConditions": [
+      "string"
+    ],
+    "workoutHistory": [
+      {
+        "workoutId": "string",
+        "workoutDate": "string",
+        "exercises": [
+          {
+            "exerciseName": "string",
+            "sets": "number",
+            "reps": "number",
+            "notes": "string"
+          }
+        ]
+      }
+    ]
+  }
+  
