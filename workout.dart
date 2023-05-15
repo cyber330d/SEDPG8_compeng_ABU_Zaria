@@ -51,6 +51,7 @@ class Workout {
       'exercises': exercisesJson,
       'duration': duration,
       'caloriesBurned': caloriesBurned,
+      'done':removethis,
     };
   }
 }
